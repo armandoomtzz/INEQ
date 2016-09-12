@@ -123,10 +123,13 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\17Login\LoginController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="DAL\17Login\UserDbContext.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\17Login\UserAccount.cs" />
     <Compile Include="Models\ComponentType.cs" />
     <Compile Include="Models\Equipment.cs" />
     <Compile Include="Models\EquipmentType.cs" />
@@ -138,6 +141,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="bin\Antlr3.Runtime.dll" />
+    <Content Include="bin\EntityFramework.dll" />
+    <Content Include="bin\EntityFramework.SqlServer.dll" />
+    <Content Include="bin\EntityFramework.SqlServer.xml" />
+    <Content Include="bin\EntityFramework.xml" />
+    <Content Include="bin\INEQ.dll" />
+    <Content Include="bin\INEQ.pdb" />
     <Content Include="bin\Microsoft.Web.Infrastructure.dll" />
     <Content Include="bin\Newtonsoft.Json.dll" />
     <Content Include="bin\System.Web.Helpers.dll" />
@@ -158,6 +167,7 @@
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="obj\Debug\build.force" />
     <Content Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <Content Include="bin\INEQ.dll.config" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />

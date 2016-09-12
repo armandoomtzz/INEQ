@@ -1,4 +1,4 @@
-Historial de Movimientos - INEQ - - - Entrega: 11 de Septiembre del 1016
+Historial de Movimientos - INEQ - - - Entrega: 11 de Septiembre del 2016
 4A TICSI TRAD - Desarrollo de Aplicaciones II
 
 Asi quedaron asignados los casos de uso a los integrantes del equipo:
@@ -20,4 +20,5 @@ Movimientos registrados segun GitHub:
 	-Armando, Sep 11 2016: Caso 17 Completado
 						   Caso 17: Login se ha completado
 						   Merge branch 'master' of https://github.com/armandoomtzz/INEQ 
-						   Verificacion de integrantes que trabajaron en el proyecto	
+						   Verificacion de integrantes que trabajaron en el proyecto
+						   Caso 8: Completado Context y Model, no asigna la vista	

@@ -117,6 +117,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Controllers\8ComponentType\" />
     <Folder Include="obj\Debug\TempPE\" />
   </ItemGroup>
   <ItemGroup>
@@ -126,10 +127,12 @@
     <Compile Include="Controllers\17Login\LoginController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="DAL\17Login\UserDbContext.cs" />
+    <Compile Include="DAL\8ComponentType\ComponentTypeDbContext.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\17Login\UserAccount.cs" />
+    <Compile Include="Models\8ComponentType\ComponentType.cs" />
     <Compile Include="Models\ComponentType.cs" />
     <Compile Include="Models\Equipment.cs" />
     <Compile Include="Models\EquipmentType.cs" />

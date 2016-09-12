@@ -124,12 +124,14 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\17Login\LoginController.cs" />
+    <Compile Include="Controllers\3CatalagoDeEquipo\CatalagoDeEquipoController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="DAL\17Login\UserDbContext.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\17Login\UserAccount.cs" />
+    <Compile Include="Models\3CatalagoDeEquipo\CatalagoDeEquipo.cs" />
     <Compile Include="Models\ComponentType.cs" />
     <Compile Include="Models\Equipment.cs" />
     <Compile Include="Models\EquipmentType.cs" />

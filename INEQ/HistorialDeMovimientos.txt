@@ -21,4 +21,7 @@ Movimientos registrados segun GitHub:
 						   Caso 17: Login se ha completado
 						   Merge branch 'master' of https://github.com/armandoomtzz/INEQ 
 						   Verificacion de integrantes que trabajaron en el proyecto
-						   Caso 8: Completado Context y Model, no asigna la vista	
+						   Caso 8: Completado Context y Model, no asigna la vista
+	-Marcos, Sep 11 2016: Caso 3 incompleto
+						  Revert "Caso 3 incompleto"
+						  Merge branch 'master' of https://github.com/armandoomtzz/INEQ.git 	

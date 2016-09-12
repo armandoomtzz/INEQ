@@ -20,4 +20,5 @@ Movimientos registrados segun GitHub:
 	-Armando, Sep 11 2016: Caso 17 Completado
 						   Caso 17: Login se ha completado
 						   Merge branch 'master' of https://github.com/armandoomtzz/INEQ 
-						   Verificacion de integrantes que trabajaron en el proyecto	
+						   Verificacion de integrantes que trabajaron en el proyecto
+						   Caso 8: Completado Context y Model, no asigna la vista	
